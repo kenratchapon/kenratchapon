@@ -7,9 +7,9 @@ My name is Ratchapon Pukkham, also known as Ken, a recent Computer Science gradu
 - 🌱 I’m currently learning ...
   - Nextjs fullstack framwork
   - integrate web application with OpenAI
-- Portfolio website [link](ken-ratchapon-portfolio.vercel.app)
+- Portfolio website [link](https://ken-ratchapon-portfolio.vercel.app/)
 - Recent Projects [Pocket Flow](https://github.com/kenratchapon/pocket-flow), [Store Ecommerce](https://github.com/kenratchapon/store-ecommerce) + [Store Dashboard](https://github.com/kenratchapon/store-dashboard) ...
-- I’m currently open for a new job opportunity, this is [my resume](link...)
+- I’m currently open for a new job opportunity, this is my resume [link...](https://github.com/kenratchapon/kenratchapon/blob/main/Resume_Ratchapon.pdf)
 
 <br>
 
