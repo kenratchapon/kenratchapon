@@ -5,7 +5,7 @@
 My name is Ratchapon Pukkham, also known as Ken, a recent Computer Science graduate from Chiang Mai University. With a passion for fullstack development, I have experience in a software house through a six-month cooperative education program. I have a strong foundation in HTML, CSS, and JavaScript, along with expertise in frontend frameworks like React. I strive for intuitive user experiences and continuously stay updated with the latest industry trends.
 * 💻 I am a self taught Full Stack Developer
 - 🌱 I’m currently learning
-  - Nextjs fullstack framwork
+  - Vue.js
 - Portfolio website [link](https://ken-ratchapon-portfolio.vercel.app/)
 - Recent Projects [Pocket Flow](https://github.com/kenratchapon/pocket-flow), [Store Ecommerce](https://github.com/kenratchapon/store-ecommerce) + [Store Dashboard](https://github.com/kenratchapon/store-dashboard) ...
 - I’m currently open for a new job opportunity, this is my resume [link...](https://github.com/kenratchapon/kenratchapon/blob/main/Resume_Ratchapon.pdf)
